@@ -1,6 +1,6 @@
 # ORO-sorting
-ORO is a python app that sorts a list of numbers in several ways.
-ORO is a practice of some of what i learned in Python, i know that there is existing libreries that sorts numbers and more, but why not i make my own! or maybe develope it to be better!
+ORO is a python app that sorts a list of numbers in several ways. 
+ORO is a practice for some of what i learned in Python, i know that there is existing libraries that sorts numbers and more, but why not i make my own! or maybe develop it to be better!
 
 Hello My friend! I'm ORO🦉 The Sorting Bot... Nice to meet you!
 I'm here to help you ordering as many numbers as you want in Ascending or Descending way! with some other adds.
